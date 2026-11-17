@@ -33,8 +33,8 @@ src/main/java/com/krishnendu/agent/
   TicketTriageAgent.java
 src/test/java/com/krishnendu/agent/
   TicketTriageAgentTest.java
-bug_reports/identified_bugs.md
-reports/test_results.md
+  bug_reports/identified_bugs.md
+  reports/test_results.md
 ```
 
 ## Test scenarios
